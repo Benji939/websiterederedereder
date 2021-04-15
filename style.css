@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+.para{
+    font-size: 25;
+    font-variant: small-caps;
+}
+.span{width: 49%;}
+.left{margin-right: 200px;
+margin-bottom: 20px;}
+.right{margin-bottom: 20px;}
